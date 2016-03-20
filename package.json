@@ -1,0 +1,23 @@
+{
+  "name": "grains",
+  "version": "1.0.0",
+  "description": "tiny template-engine",
+  "main": "grains.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christianheyn/grains.git"
+  },
+  "keywords": [
+    "template",
+    "placholder"
+  ],
+  "author": "Christian Heyn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/christianheyn/grains/issues"
+  },
+  "homepage": "https://github.com/christianheyn/grains#readme"
+}
