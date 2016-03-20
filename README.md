@@ -48,7 +48,7 @@ console.log(result);
 ```
 
 ```js
-var grains = require('./grains'),
+var grains = require('grains'),
     tmpVars = {
         name: 'Tony',
 				lastName: 'Stark',
